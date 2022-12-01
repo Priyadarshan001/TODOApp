@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(210, 250, 219);
+}
+.App{
+    background-color: rgb(147, 147, 245);
+    width: 50%;
+    margin-left: 25%;
+}
+h2{
+    background-color: rgb(167, 241, 140);
+    text-align: center;
+    color: rgb(103, 66, 177);
+    font-family: cursive;
+}
+input{
+    width: 85%;
+    height: 40px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgb(63, 203, 56);
+    border-radius: 4px;
+}
+button{
+    font-weight: bolder;
+    background-color: rgb(236, 208, 160);
+    border-radius: 5px;
+    height: 40px;
+}
+.data{
+    display: flex;
+    height: 35px;
+    font-weight: bolder;
+    color: rgb(127, 34, 34);
+    background-color: rgb(180, 230, 130);
+    padding: 5px;
+
+}
+.delicon{
+   position: absolute;
+   margin-left: 180px;
+}
+.comtask{
+    position: absolute;
+    margin-left: 230px;
+}
+img{
+    width: 30px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.completedTask{
+    position: absolute;
+    margin-left: 30%;
+}
+.main{
+    display: flex;
+    width: 50%;
+    margin-left: 25%;
+}
+.remvbtn{
+    position: absolute;
+    margin-left: 500pxpx;
+    cursor: pointer;
+}
+
